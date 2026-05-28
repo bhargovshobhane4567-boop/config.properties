@@ -1,9 +1,1 @@
-spring:
-  application:
-    name: WelcomeApp
-
-server:
-  port: 8080
-
-welcome:
-  message: "Welcome to Spring Boot Application"
+  message: "Welcome to Welcome to  the welcome file"
